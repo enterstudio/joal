@@ -33,7 +33,7 @@
 
         <!-- COMPILE  -->
         <commons-io.version>2.5</commons-io.version>
-        <commons-lang3.version>3.6</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-codec.version>1.10</commons-codec.version>
         <fluent-hc.version>4.5.3</fluent-hc.version>
         <google.guava.version>23.0</google.guava.version>
